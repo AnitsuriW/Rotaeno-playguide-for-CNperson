@@ -3,16 +3,21 @@
 来个广告
 
 > Rotaeno三周年本体限时免费现已开启，维持7天(~2025.06.05)
+>
 > 有想要体验Rotaeno的欢迎在这个时期下载并体验一下我们旋转音律Rotaeno！
+>
 > 关注旋转音律Rotaeno喵！关注旋转音律Rotaeno谢谢喵！
 >
 > ### Rotaeno
 > App Store: https://apps.apple.com/app/1614771445
+>
 > Google Play: https://play.google.com/store/apps/details?id=com.xd.rotaeno.googleplay
+>
 > TapTap(International Ver.): https://taptap.io/app/rotaeno-231280
 >
 > ### 旋转音律
 > TapTap: https://www.taptap.cn/app/166257
+>
 > App Store: https://apps.apple.com/cn/app/id6466390901
 
 本仓库里的内容均可在以下QQ群看到
