@@ -1,0 +1,17 @@
+{
+  "name": "md-to-png-github-style",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "github-markdown-css": "^5.8.1",
+    "markdown-it": "^14.1.0",
+    "puppeteer": "^24.10.2"
+  }
+}
